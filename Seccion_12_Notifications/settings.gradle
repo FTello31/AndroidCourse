@@ -1,0 +1,2 @@
+rootProject.name='Seccion_12_Notifications'
+include ':app'
